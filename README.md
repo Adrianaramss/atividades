@@ -1,7 +1,6 @@
 
 # Bootcamp Elastech
 Desafios
-Contagem Regressiva
 
 1 - Crie um programa que realize uma contagem regressiva de 10 até 1, mostrando cada número na tela.
 Tabuada
